@@ -13,7 +13,7 @@ An antenna to send these pulses out into the atmosphere and receive the reflecte
 A receiver, which detects, amplifies and transforms the received signals into video format.
 # How It Works
 First Download Arduino IDE and Processing IDE (processing-3.5.4) this will be used to Make a Graphical User interface for radar system
-after that open arduino Ide and copy and pase the arduion code using arduino type u have and Run it
-then that open processing Ide and copy and pase the GUI radar code and Run it
+after that open arduino Ide and copy and pase the arduion code(radar_pro) using arduino type u have and Run it
+then that open processing Ide(sketch_210605a) and copy and pase the GUI radar code and Run it
 the servo motor and ultrasoic sensor start working and all setup works
 REMEMBER- the code must be in the same directory but different foldersssssssssssssssss
